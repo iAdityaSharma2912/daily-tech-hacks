@@ -9,3 +9,6 @@ Use a custom prompt in your terminal to display useful information like the curr
 ## Hack for Thu Jan 30 17:04:36 2025
 7. Try time tracking apps like Toggl to track how much time you spend on tasks.
 
+## Hack for Thu Jan 30 17:09:59 2025
+Press F5 to refresh your browser or window in most apps.
+
