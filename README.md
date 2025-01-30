@@ -4,3 +4,6 @@ Use a custom prompt in your terminal to display useful information like the curr
 ## Hack for Thu Jan 30 16:49:29 2025
 Create a simple Python script to clean up files older than a certain age.
 
+## Hack for Thu Jan 30 16:52:30 2025
+Use Git alias to shorten long git commands.
+
