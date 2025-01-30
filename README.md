@@ -1,6 +1,6 @@
 # Current Tech Hack for 2025-01-30
 
-*Automate your code testing using GitHub Actions.*
+*Use Git alias to shorten long git commands.*
 
 
 ## Project Description
@@ -55,6 +55,10 @@ Welcome to the **Daily Tech Hack Update** project! This repository aims to share
 
 | Date         | Tech Hack                                        |
 |--------------|--------------------------------------------------|
+## Previous Tech Hacks
+
+| Date         | Tech Hack                                        |
+|--------------|--------------------------------------------------|
 | 2025-01-30 | "Use Ctrl + Shift + I to inspect elements on a webpage in most browsers." |
 | 2025-01-30 | "Press F5 to refresh your browser or window in most apps." |
 | 2025-01-30 | "Customize your Google Chrome or Firefox with themes and extensions for a unique look." |
@@ -63,3 +67,4 @@ Welcome to the **Daily Tech Hack Update** project! This repository aims to share
 | 2025-01-30 | "Use F3 to open search within most applications." |
 | 2025-01-30 | Use Git alias to shorten long git commands. |
 | 2025-01-30 | Automate your code testing using GitHub Actions. |
+| 2025-01-30 | Use Git alias to shorten long git commands. |
