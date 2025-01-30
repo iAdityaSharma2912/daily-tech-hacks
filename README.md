@@ -1,5 +1,5 @@
 # Current Tech Hack for 2025-01-30
-"Press F5 to refresh your browser or window in most apps."
+"Customize your Google Chrome or Firefox with themes and extensions for a unique look."
 
 
 ## Project Description
@@ -19,5 +19,10 @@ The goal of this project is to:
 
 | Date         | Tech Hack                                        |
 |--------------|--------------------------------------------------|
+## Previous Tech Hacks
+
+| Date         | Tech Hack                                        |
+|--------------|--------------------------------------------------|
 | 2025-01-30 | "Use Ctrl + Shift + I to inspect elements on a webpage in most browsers." |
 | 2025-01-30 | "Press F5 to refresh your browser or window in most apps." |
+| 2025-01-30 | "Customize your Google Chrome or Firefox with themes and extensions for a unique look." |
